@@ -3,13 +3,13 @@ This course is for training DevOps engineering.
 All course curriculums will be in Ukrainian language.
 ---
 ## [Lab_1: Здобуття навиків роботи з системою версіонування коду GitHub.](https://github.com/BobasB/devops_course/tree/master/lab1) 
-> Deadline: 30.10.2020
+> Deadline: 01.11.2020
 ---
 ## [Lab_2a: Основи роботи з Python.](https://github.com/BobasB/devops_course/tree/master/lab2a)
-> Deadline: 
+> Deadline: 08.11.2020
 ---
 ## [Lab_2: Автоматизація. Знайомство з CI/CD.](https://github.com/BobasB/devops_course/tree/master/lab2)
-> Deadline: 
+> Deadline: 15.11.2020
 ---
 ## [Lab_3: Вступ до моніторингу](https://github.com/BobasB/devops_course/tree/master/lab3)
 > Deadline: 
@@ -28,7 +28,7 @@ All course curriculums will be in Ukrainian language.
 
 :bangbang: Один пул-реквест - Одна лабораторна робота, будь-ласка не змішуйте все в один.
 
-:bangbang: Читайте коменти у пул реквестах. Я відписую чи лабораторна зарахована чи ні (GitHub повинен відправляти е-мейли про активність, читайте їх).
+:bangbang: Читайте коменти у пул-реквестах. Я відписую чи лабораторна зарахована чи ні (GitHub повинен відправляти е-мейли про активність, читайте їх).
 
 :bangbang: У папці Вашої групи є табличка з результатами.
 
